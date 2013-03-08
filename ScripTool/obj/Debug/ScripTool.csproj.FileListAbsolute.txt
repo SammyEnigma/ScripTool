@@ -1,0 +1,9 @@
+e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\bin\Debug\ScripTool.exe.config
+e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\bin\Debug\ScripTool.exe
+e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\bin\Debug\ScripTool.pdb
+e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\bin\Debug\NDesk.Options.dll
+e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\obj\Debug\ScripTool.exe
+e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\obj\Debug\ScripTool.pdb
+e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\bin\Debug\Licence.txt
+e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\bin\Debug\test.bat
+E:\Users\Thuven\Documents\Visual Studio 2012\Projects\ScripTool\ScripTool\obj\Debug\ScripTool.csprojResolveAssemblyReference.cache
