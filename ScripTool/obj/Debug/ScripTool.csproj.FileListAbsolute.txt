@@ -6,4 +6,3 @@ e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\obj\De
 e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\obj\Debug\ScripTool.pdb
 e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\bin\Debug\Licence.txt
 e:\users\thuven\documents\visual studio 2012\Projects\ScripTool\ScripTool\bin\Debug\test.bat
-E:\Users\Thuven\Documents\Visual Studio 2012\Projects\ScripTool\ScripTool\obj\Debug\ScripTool.csprojResolveAssemblyReference.cache
